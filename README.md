@@ -1,9 +1,9 @@
 # XKPlayer
 Clean and full feature AVPlayer extension.
 
-##Objects
+## Objects
 
-###XKPlayer
+### XKPlayer
 
 ```Objective-C
 @interface XKPlayer: AVPlayer
@@ -23,7 +23,7 @@ Clean and full feature AVPlayer extension.
 @end
 ```
 
-###XKPlayerView
+### XKPlayerView
 
 ```Objective-C
 @interface XKPlayerView: UIView
@@ -36,7 +36,7 @@ Clean and full feature AVPlayer extension.
 @end
 ```
 
-###XKPlayerDelegate
+### XKPlayerDelegate
 
 ```Objective-C
 @protocol XKPlayerDelegate <NSObject>
@@ -58,7 +58,7 @@ Clean and full feature AVPlayer extension.
 @end
 ```
 
-##How to use
+## How to use
 
 ```Objective-C
 // Use as a normal view, with autolayout (or not)
